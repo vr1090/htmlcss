@@ -1,3 +1,10 @@
+## rails
+- mvc
+- ``` rails server ```
+- gem install di root, bundle install di local
+- rails banyak rewrite ruby
+- rails itu metaprogramming
+
 ## selector
 - element selector
 - descendant ... parent child ... si child yg bakalan kena style
