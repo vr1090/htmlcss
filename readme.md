@@ -1,3 +1,5 @@
+## visual formatting
+
 ## rails
 - mvc
 - ``` rails server ```
