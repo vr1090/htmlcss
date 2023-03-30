@@ -1,5 +1,11 @@
 ## visual formatting
+- content-box: defaultnya ini doang yg diperhatiin
+- kalau mau satu visual .. itung border, margin, padding sekalian
+- box-sizing: 
+    - context-box
+    - border-box
 
+- 
 ## rails
 - mvc
 - ``` rails server ```
